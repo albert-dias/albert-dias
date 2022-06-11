@@ -1,4 +1,4 @@
-### Olá eu seou Albert Dias 👋
+### Olá eu sou Albert Dias 👋
 - 🔭 Hoje trabalho como full stack javascript com NodeJS, React e React Native
 - 🌱 Estou estudando NextJS, GraphQL, Prisma2
 
