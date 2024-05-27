@@ -32,6 +32,4 @@
 
 </div>
 
-![Snake animation]
-
-https://github.com/albert-dias/albert-dias/blob/output/github-contribution-grid-snake.svg
+![snake gif](https://github.com/albert-dias/albert-dias/blob/output/github-contribution-grid-snake.svg)
