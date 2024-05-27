@@ -1,8 +1,10 @@
 <div align="center">
   
-### Olá eu sou Albert Dias 👋
-🔭 Atualmente trabalho como full stack javascript com NodeJS, React, Next e React Native
-🌱 Solidos conhecimentos em: Prisma, Typeorm, Postgresql, Mysql, MongoDb
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá,+bem+vindo!+👋;+me+chamo+Albert!;" />
+</h1>
+<p>🔭 Atualmente trabalho como full stack javascript com NodeJS, React, Next e React Native</p>
+<p>🌱 Solidos conhecimentos em: Prisma, Typeorm, Postgresql, Mysql, MongoDb</p>
 </div>
 
 <!-- - 💬 Ask me about ...
@@ -33,5 +35,8 @@
   <a href="https://api.whatsapp.com/send?phone=+5584992313523&text=Ola%20peguei%20seu%20contato%20no%20github" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
 </div>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+</h1>
 
 ![snake gif](https://github.com/albert-dias/albert-dias/blob/output/github-contribution-grid-snake.svg)
